@@ -1,0 +1,6 @@
+*.o
+*.a
+.idea
+obj/
+ft_fractol
+.DS_Store
